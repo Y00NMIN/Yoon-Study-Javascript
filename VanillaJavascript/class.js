@@ -1,4 +1,3 @@
-//class는 객체를 만드는 공장이다.
 class Person {
   constructor(name, first, second) {
     this.name = name;
@@ -9,31 +8,25 @@ class Person {
     return "prototype : " + (this.first + this.second);
   }
 }
-/*
-Person.prototype.sum = function () {
-  return "prototype : " + (this.first + this.second);
-};
+//avg기능을 사용하기위해 새로운 class를 만들었다.
+//하지만 중복되는 sum,constructor부분을 제거하고자할때 필요한 기능이 상속이다.
+class PersonPlus {
+  constructor(name, first, second) {
+    this.name = name;
+    this.first = first;
+    this.second = second;
+  }
+  sum() {
+    return "prototype : " + (this.first + this.second);
+  }
+  avg() {
+    return (this.first + this.second) / 2;
+  }
+}
 
-바깥에 이 코드를 사용해도 되고 Person class 안에 sum을 사용해도 된다.
-class안에서 사용하는게 더 안정성이 높다.
-*/
-
-var yoon = new Person("yoon", 10, 20);
+var yoon = new PersonPlus("yoon", 10, 20);
 yoon.sum = function () {
   return "this:" + (this.first + this.second);
 };
-
-console.log("yoon", yoon);
-var lee = new Person("lee", 10, 10);
 console.log("yoon.sum()", yoon.sum());
-console.log("lee.sum()", lee.sum());
-//출력 값으로 Person이라는 객체를 생성한다.-> 출력: yoon Person{}
-
-/*하단의 코드를 상단의 class로 묶음
- yoon.sum = function(){
-   return 'this : '+(this.first+this.second);
- }
- var lee = new Person('lee', 10, 10);
- console.log("yoon.sum()", yoon.sum());
- console.log("lee.sum()", lee.sum());
- */
+console.log("yoon.avg()", yoon.avg());
