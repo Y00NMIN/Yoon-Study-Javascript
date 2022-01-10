@@ -16,5 +16,27 @@
       1920,
       1080
     ]
-  }
+  },
+  "preview": [
+    {
+      "views": [
+        {
+          "id": "codesandbox.browser"
+        },
+        {
+          "id": "codesandbox.tests"
+        },
+        {
+          "id": "codesandbox.console"
+        }
+      ]
+    },
+    {
+      "views": [
+        {
+          "id": "codesandbox.problems"
+        }
+      ]
+    }
+  ]
 }
