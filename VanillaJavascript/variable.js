@@ -1,6 +1,10 @@
 "use strict";
 
+//mutable data type, immutable data type 비교 글작성
+
+//variable, rw(read/write)
 //let
+//DataType (mutable)
 let globalName = "yoon";
 {
   let name = "ellie";
@@ -10,11 +14,15 @@ let globalName = "yoon";
 }
 console.log(globalName);
 
-//const
+//const, r(read)
+//DataType(immutable)
 const firstName = "min";
 const secondName = "yoon";
 
 //Datatype
+//variable type
+//primitive(값 자체가 메모리에 바로 저장)
+//object(레퍼런스를 통해서 실제로 오브젝트가 담겨있는 메모리를 가르킨다.)오브젝트 안에있는 값들은 변경이 가능하다
 
 //number
 const count = 17;
