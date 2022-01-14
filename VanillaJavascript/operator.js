@@ -46,6 +46,9 @@ const value2 = 4 < 2;
 //||(or)
 //값중에 하나만 true여도 true값이 나온다.
 console.log(`or:${value1 || value2 || check()}`);
+function check() {
+  console.log("nice work");
+}
 /* 
 값중 하나만 true면 true이니 value값들에서 true가 나온다면
 함수를 사용할 일이 없어진다. 즉, 함수는은 제일 뒤에배치되도록 작성해야한다.
