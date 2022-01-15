@@ -1,5 +1,5 @@
 //1. string concatenation (문자열 연쇄)
-console.log("my" + "cat");
+console.log("my cat");
 console.log("1" + 2);
 console.log(`string literals: 1 +2 = ${1 + 2}`);
 
@@ -63,7 +63,7 @@ console.log(`or:${value1 || value2 || check()}`);
 */
 
 //and는 간단한 null 체크에도 많이 사용된다.
-if (nullavleObjct != null) {
+if (nullableObject != null) {
   nullableObject.something;
 }
 
