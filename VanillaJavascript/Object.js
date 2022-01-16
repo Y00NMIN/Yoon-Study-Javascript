@@ -69,3 +69,23 @@ const array = [1, 2, 3, 4];
 for (value of array) {
   console.log(value);
 }
+
+//7.Fun cloning
+//Object.assign(dest,[obj1,obj2,obj3...])
+const user = { name: "yoon", age: "20" };
+const user2 = user;
+user2.name = "coder";
+console.log(user);
+
+//other way
+const user4 = {};
+Object.assign(user4, user); //user값을 user4가 받아온다.
+//다른 방식 표현
+const user4 = Object.assign({}, user);
+
+//다른 예제
+const fruit1 = { color: "red" };
+const fruit2 = { color: "blue", size: "big" };
+const mixed = Object.assign({}, fruit1, fruit2); //뒤에있는 함수가 앞에를 덮어쓴다.
+console.log(mixed.color); //blue
+console.log(mixed.size); //big
