@@ -4,7 +4,7 @@
 //object를 만드는 방법 2가지.
 
 //1.Literals and properties
-const obj1 = {}; //1.{}를 이용한 기본적인 object literak
+const obj1 = {}; //1.{}를 이용한 기본적인 object literal
 const obj2 = new Object(); //2. new(생성자)를 이용한 object constructor
 
 function print(person) {
@@ -48,7 +48,7 @@ function Person(name, age) {
   //this = {};
   this.name = name;
   this.age = age;
-  //erturn this;
+  //return this;
 }
 
 //5. in operator
