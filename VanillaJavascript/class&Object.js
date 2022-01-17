@@ -1,4 +1,3 @@
-"use strict";
 //class: template(붕어빵 틀)
 //objcet:instance of a class(붕어빵(크림,피자,팥 등)종류)
 

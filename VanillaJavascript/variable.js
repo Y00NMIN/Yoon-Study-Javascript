@@ -1,5 +1,3 @@
-"use strict";
-
 //mutable data type, immutable data type 비교 글작성
 
 //variable, rw(read/write)

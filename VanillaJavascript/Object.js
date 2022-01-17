@@ -1,4 +1,3 @@
-"use strict";
 //objects
 //object = {key : value};
 //object를 만드는 방법 2가지.
