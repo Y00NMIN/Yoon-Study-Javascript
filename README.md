@@ -9,6 +9,10 @@
 </section>
 
   <h3> 🙌step1: Javascript란 무엇인가? </h3>
+    <ol class = "javascript">
+      <li> if,else,else if </li>
+      <li> for </li>
+    </ol>
   <h3> 🙌step2: Study-class.method </h3>
   <h3> 🙌step3: Study-inheritance-step1 </h3>
   <h3> 🙌step4: Study-variable </h3>
@@ -53,7 +57,10 @@
       <li>Addtion, deletion, copy</li>
       <li>Searching(indexOf,includes,lastIndexOf</li>
  </ol>
- 
+  <h3> 🙌step9: Study-Json </h3>
+  <h3> 🙌step10: Study-Callback </h3>
+  <h3> 🙌step11: Study-Promise </h3>
+  <h3> 🙌step12: Study-async, await </h3>
  ----------------------------------------------------------------------------------------
  <p align="right">부족하거나 틀린 부분을 언제든 지적해주시면  감사드리겠습니다🙏</p>
  <p align="right">해당 글은 드림코더 엘리님의 영상을 토대로 작성한 코드입니다!</p>
