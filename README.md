@@ -1,5 +1,5 @@
 <section align = "center">
-<h1>Yoonmin 자바스크립트 공부 구간📝</h1>
+<h1>Yoonmin 자바스크립트 Study Section📝</h1>
 
 ![스크린샷(1)](https://user-images.githubusercontent.com/89017779/149787111-6bd7e2b4-6255-4032-b5cf-24a391861773.png)
 
