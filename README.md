@@ -7,7 +7,7 @@
 <h2 align="center"><a href="https://yoon-min-codinglog.tistory.com/">⚙Yoonmin_tech_blog⚙</a></h2>
 <p>Javascript 코드들은 개인 개발 블로그에 설명과 함께 작성되어 있으니 많은 방문 부탁드립니다!😊</p>
 </section>
-
+<h1> Study setup</h1>
   <h3> 🙌step1: Javascript란 무엇인가? </h3>
     <ol class = "javascript">
       <li> if,else,else if </li>
@@ -61,6 +61,8 @@
   <h3> 🙌step10: Study-Callback </h3>
   <h3> 🙌step11: Study-Promise </h3>
   <h3> 🙌step12: Study-async, await </h3>
+
+
  ----------------------------------------------------------------------------------------
  <p align="right">부족하거나 틀린 부분을 언제든 지적해주시면  감사드리겠습니다🙏</p>
  <p align="right">해당 글은 드림코더 엘리님의 영상을 토대로 작성한 코드입니다!</p>
