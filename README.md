@@ -56,7 +56,11 @@
       <li>Looping over(반복) an array( a,b,c)</li>
       <li>Addtion, deletion, copy</li>
       <li>Searching(indexOf,includes,lastIndexOf</li>
- </ol>
+    </ol>
+    <ul class = "arrayAPI">
+  <p align= "left"><strong>+)study array API</p>
+      <li>join, split, reverse, slice, find, filter, map, some, every, reduce</li>
+    </ul>
   <h3> 🙌step9: Study-Json </h3>
   <h3> 🙌step10: Study-Callback </h3>
   <h3> 🙌step11: Study-Promise </h3>
