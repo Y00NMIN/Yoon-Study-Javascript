@@ -1,9 +1,9 @@
 <section align = "center">
-<h1>Yoonmin 자바스크립트 Study Section📝</h1>
+<h1>Yoonmin Front-End developer Study Section📝</h1>
 
 ![스크린샷(1)](https://user-images.githubusercontent.com/89017779/149787111-6bd7e2b4-6255-4032-b5cf-24a391861773.png)
 
-<h3> 해당 레포지는 Front-End Study Section 중 Javascript 구간 입니다❗<br> 제가 공부하는 과정이 다른 분들에게도 조금이나마 도움이된다면 행복할 것 같습니다👏</h3>
+<h3> 해당 레포지는 Front-End Study 공간입니다❗<br> 제가 공부하는 과정이 다른 분들에게도 조금이나마 도움이된다면 행복할 것 같습니다👏</h3>
 <h2 align="center"><a href="https://yoon-min-codinglog.tistory.com/">⚙Yoonmin_tech_blog⚙</a></h2>
 <p>Javascript 코드들은 개인 개발 블로그에 설명과 함께 작성되어 있으니 많은 방문 부탁드립니다!😊</p>
 </section>
