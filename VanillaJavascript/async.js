@@ -1,5 +1,5 @@
-//1.callback
+//1.calllback
 
 //2.Promise
 
-//3.async await
+//3.async, await
