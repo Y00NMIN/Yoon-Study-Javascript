@@ -7,7 +7,7 @@
 <h2 align="center"><a href="https://yoon-min-codinglog.tistory.com/">⚙Yoonmin_tech_blog⚙</a></h2>
 <p>Javascript 코드들은 개인 개발 블로그에 설명과 함께 작성되어 있으니 많은 방문 부탁드립니다!😊</p>
 </section>
-  <h3> 🙌Study1: Javascript(ES6)란 무엇인가? </h3>
+  <h3><a href="https://yoon-min-codinglog.tistory.com/3"> 🙌Study1: Javascript(ES6)란 무엇인가? </a></h3>
   <h3><a href="https://yoon-min-codinglog.tistory.com/5"> 🙌Study2: 조건문 </a></h3>
     <ol>
       <li>🙌Study2-1: 연산자</li>
