@@ -30,3 +30,15 @@ const resultItem = items.map((item) => {
   return { id: item.id };
 });
 console.log("obecjt", resultItem);
+
+//other
+const result5 = array.map((v) => {
+  if (v % 2) {
+    return "홀수";
+  }
+  return "짝수";
+});
+console.log(result5);
+
+//map을 실행하는 배열과 결과로 나오는 배열이 다른 객체라는 것입니다. 기존 배열을 수정하지 않고 새로운 배열을 만들어냅니다.
+//단, 배열 안에 객체가 들어있는 경우, 객체는 공유됩니다
