@@ -29,5 +29,11 @@
       <li>🙌Study10-2: Promise</li>
       <li>🙌Study10-3: async, await</li>
     </ol>
+  <h3>🙌🏻Study11: Method</h3>
+  <ol>
+    <li>🙌🏻Study11-1: Map</li>
+    <li>🙌🏻Study11-2: Split</li>
+    <li>🙌🏻Study11-3: Reduce</li>
+  </ol>
  <p align="right">부족하거나 틀린 부분을 언제든 지적해주시면  감사드리겠습니다🙏</p>
  <p align="right">해당 글은 드림코더 엘리님과 생활코딩님의 영상을 토대로 작성한 코드입니다!</p>
